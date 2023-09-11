@@ -10,7 +10,7 @@
 
 ## 问答流程
 
-![](.\images\PDF-LangChain.jpg)
+![.\images\PDF-LangChain.jpg](https://github.com/maohuihua123/chat-milvus-demo/blob/main/images/PDF-LangChain.jpg)
 
 **[流程图来源]：**[https://github.com/alejandro-ao/ask-multiple-pdfs](https://github.com/alejandro-ao/ask-multiple-pdfs)
 
@@ -88,8 +88,7 @@ String result = chatClient.chatCompletion(prompt + content + question);
 ```
 
 ## 效果展示
-
-![image-20230912020354066](.\images\image-20230912020354066.png)
+![image-20230912020354066](https://github.com/maohuihua123/chat-milvus-demo/blob/main/images/image-20230912020354066.png)
 
 
 
