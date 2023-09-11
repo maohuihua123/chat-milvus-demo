@@ -80,7 +80,7 @@ String content = buffer.toString();
 String result = chatClient.chatCompletion(prompt + content + question);
 ```
 
-3.问答结果
+4.问答结果
 
 ```
 根据原文信息得出，台风苏拉登录时间可能是3日早晨前后（文中提到，“鉴于台风“苏拉”较大可能于3日早晨前后以热带风暴级别再次登陆湛江”）
